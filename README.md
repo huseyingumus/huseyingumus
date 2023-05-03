@@ -12,7 +12,7 @@ Hello, I am hüseyin gümüş software developer. I am trying to improve myself 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huseyingumus&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingumus&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=huseyingumus&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
